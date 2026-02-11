@@ -14,7 +14,7 @@
 - Git & GitHub
 
 ### Projects
-- Student Management System (Python)
+- Sales Data Analysis using PostgreSQL & Python
 - IPL 2022 Capstone Project (Data Visualization)
 - Handwritten Digit Recoginition Using CNN + IMAGE PROCESSING
 
