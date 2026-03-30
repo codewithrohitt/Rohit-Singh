@@ -3,20 +3,23 @@
 ## Hi, I'm Rohit 👋
 
 🎓 MCA Student  
-💻 Python Developer | Data Analysis | Data Science | AIML  
+💻 Python | Data Analysis | Data Science | AI/ML  
 
 ### Skills
 - Python (Core, OOPs, File Handling)
 - NumPy, Pandas
 - Data Visualization
+- Power BI
 - Basic AI, ML, NLP
 - PostgreSQL
 - Git & GitHub
 
 ### Projects
-- Sales Data Analysis using PostgreSQL & Python
-- IPL 2022 Capstone Project (Data Visualization)
+- E-Commerce Sales Data Analysis | Python + SQL
+- Credit Card Financial Dashboard | Power BI
+- Swiggy Sales Data Analysis | Python
 - Handwritten Digit Recoginition Using CNN + IMAGE PROCESSING
+- and more loading.......
 
 ### Currently Learning
 - Advanced Python
