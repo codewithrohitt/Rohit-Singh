@@ -10,14 +10,15 @@
 - NumPy, Pandas
 - Data Visualization
 - Power BI
+- Microsoft Excel
 - Basic AI, ML, NLP
 - PostgreSQL
 - Git & GitHub
 
 ### Projects
-- E-Commerce Sales Data Analysis | Python + SQL
-- Credit Card Financial Dashboard | Power BI
-- Swiggy Sales Data Analysis | Python
+- E-Commerce Customer Analysis  |  Python | Pandas · NumPy · Matplotlib · Seaborn
+- Sales KPI Dashboard  |  Excel + Power BI | DAX · Power Query · Pivot Tables 
+- HR Payroll MIS Report  |  SQL | PostgreSQL · Excel · Pivot Tables
 - Handwritten Digit Recoginition Using CNN + IMAGE PROCESSING
 - and more loading.......
 
